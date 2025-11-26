@@ -38,3 +38,29 @@ Talksy exists because current social apps are noisy, endless scroll machines. We
 # Project Info
 
 ![Project Status](https://img.shields.io/badge/status-prototype-orange)
+
+
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### * Framework
+ * **Next.js 14** (App Router)
+
+### * Language
+ * **TypeScript**
+
+###  * Styling
+ * **Tailwind CSS** & **Shadcn/ui**
+
+### * Backend
+* **Prisma** & **PostgreSQL**
+
+#
