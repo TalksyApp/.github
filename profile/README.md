@@ -47,20 +47,20 @@ Talksy exists because current social apps are noisy, endless scroll machines. We
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
 
-### * Framework
- * **Next.js 14** (App Router)
+###  Frontend
+* **Next.js 14** (App Router)
+* **TypeScript**
+* **Tailwind CSS**
 
-### * Language
- * **TypeScript**
+###  Backend & Infrastructure
+* **Next.js** (Server Actions/API)
+* **NextAuth** (Authentication)
+* **PostgreSQL** (Database)
+* **Neon** (Serverless Database Provider)
 
-###  * Styling
- * **Tailwind CSS** & **Shadcn/ui**
-
-### * Backend
-* **Prisma** & **PostgreSQL**
-
-#
+##
